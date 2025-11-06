@@ -54,8 +54,8 @@ The dataset includes information from Sri Lankan districts, covering:
 The following datasets were used in this analysis:
 
 - [`Kidney.csv`](Kidney.csv)  
-- [`source_of_drinking_water_in_rural_sector_1_1.csv`](source_of_drinking_water_in_rural_sector.csv)  
-- [`drinking_water_sources_available_2012_0.csv`](drinking_water_sources_available_2012.csv)
+- [`Source_of_drinking_water_in_rural_sector.csv`](source_of_drinking_water_in_rural_sector.csv)  
+- [`Drinking_water_sources_available_2012.csv`](drinking_water_sources_available_2012.csv)
 
 **Source:** [Kaggle](https://www.kaggle.com/)  
 **Data Preparation:** Cleaned and formatted using **Microsoft Excel** before importing into **Power BI**.
