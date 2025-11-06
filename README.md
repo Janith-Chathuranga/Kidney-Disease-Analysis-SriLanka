@@ -28,13 +28,6 @@ The dataset includes information from Sri Lankan districts, covering:
 
 ---
 
-## 📊 Tools & Technologies
-- **Python / Jupyter Notebook** → Data cleaning and exploration  
-- **Pandas**, **Matplotlib**, **Seaborn** → Statistical analysis and visualizations  
-- **Power BI** → Interactive dashboard and regional insights  
-
----
-
 ## 📈 Visualizations Created
 - 🗺️ **Map View:** District-wise patient percentage and water source distribution.  
 - 🍩 **Donut Charts:** Safe vs. unsafe drinking water ratio by district.  
@@ -49,7 +42,7 @@ The dataset includes information from Sri Lankan districts, covering:
 
 ---
 
-## 🧾 Dataset Information
+## 🔗 Dataset Reference
 
 The following datasets were used in this analysis:
 
@@ -57,18 +50,19 @@ The following datasets were used in this analysis:
 - [`Source_of_drinking_water_in_rural_sector.csv`](source_of_drinking_water_in_rural_sector.csv)  
 - [`Drinking_water_sources_available_2012.csv`](drinking_water_sources_available_2012.csv)
 
-**Source:** [Kaggle](https://www.kaggle.com/)  
+**Source:** [Kaggle](https://www.kaggle.com/)
+
 **Data Preparation:** Cleaned and formatted using **Microsoft Excel** before importing into **Power BI**.
 
 ---
 
 ## ⚙️ How to Use This Project
 
-1. **Clone the repo**
+1. **Clone the repo:**
    ```bash
    git clone https://github.com/Janith-Chathuranga/Kidney-Disease-Analysis-SriLanka.git
 
-2. Open the .pbix file included in the repository
+2. Open the `.pbix` file included in the repository
 
 3. Review DAX measures, parameter slicers, and visualizations
 
@@ -88,9 +82,10 @@ The study reveals a strong link between **groundwater consumption** and **CKD pr
 
 ---
 
-👨‍💻 **Created by**
+## 👨‍💻 **Created by**
 
 Janith Chathuranga
-📍 ICT Undergraduate | Data Enthusiast | Power BI Develope
+
+📍 ICT Undergraduate | Data Enthusiast | Power BI Developer
 
 
